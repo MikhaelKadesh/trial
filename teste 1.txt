@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<title>Pagina da Ferrari</title>
+</head>
+<body style="background-color:powderblue;">
+
+<h1 style="text-align:center;"> Ferrari </h1>
+
+<h1 style="color:red;"> Bem-vindo a pagina da Ferrari </h1>
+<p title="Explicacao do site" style="font-family:courier;">Esta e a nova pagina da Ferrari. Aqui voce encontrara novas promocoes e novos carros.</p>
+<hr>
+
+<img src="ferrari.jpg" title="Nova Ferrari F500"  alt="Picture of the the new Ferrari F500">
+
+<pre title="It's a lie"> 
+"The F500 is probably the best
+car released so far"
+
+               Auto Sport Magazine
+</pre>
+
+<p title="Acesse no link abaixo" style="font-size:160px;"> Acesse e confira </p> 
+
+<a href="http://www.ferrari.com" > Accesse o site da Ferrari</a>
+
+</body>
+</html>
